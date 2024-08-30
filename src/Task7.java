@@ -1,4 +1,4 @@
-class Person {
+/*class Person {
 
 	public void sayType() {
 		System.out.println("It's class Person");
@@ -22,12 +22,12 @@ class Man extends Person {
 		System.out.println("It's class Maan");
 	}
 	
-}
+}*/
 
 public class Task7 {
 
 	public static void main(String[] args) {
-		
+		/*
 		// создаем объект типа Woman и присваиваем его ссылочной переменной типа Person
 		Person p1 = new Woman();
 		
@@ -36,7 +36,7 @@ public class Task7 {
 		
 		p1.sayType(); // вывод: It's class Woman
 		p2.sayType(); // вывод: It's class Man
-
+*/
 	}
 
 }
