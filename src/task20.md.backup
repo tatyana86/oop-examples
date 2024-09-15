@@ -8,13 +8,13 @@ class Animal {
 }
 
 class Turtle extends Animal {
-    # Наследование с функциональной вариацией
+    // Наследование с функциональной вариацией
     @Override
     public void makeSound() {
         System.out.println("The sound of turtle");
     }
     
-    # Наследование с вариацией типа
+    // Наследование с вариацией типа
     @Override
     public void makeSound(String msg) {
         System.out.println("The sound of turtle: " + msg);
